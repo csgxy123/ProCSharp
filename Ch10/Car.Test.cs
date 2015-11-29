@@ -19,6 +19,8 @@ namespace ProCSharp
 			Console.WriteLine("\n***** Speeding up *****");
 			for (int i = 0; i < 6; ++i)
 				c1.Accelerate(20);
+				
+			Console.WriteLine();
 		}
 	}
 }
