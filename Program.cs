@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Pro_CSharp
+namespace ProCSharp
 {
     public class Program
     {
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.Read();
+            Ch10.Test();
         }
     }
 }
